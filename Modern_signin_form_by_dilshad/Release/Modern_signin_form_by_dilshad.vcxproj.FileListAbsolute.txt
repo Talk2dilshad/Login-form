@@ -1,0 +1,2 @@
+G:\Project\Modern_signin_form_by_dilshad\Modern_signin_form_by_dilshad\Release\Modernsigninformbydilshad.MyForm.resources
+G:\Project\Modern_signin_form_by_dilshad\Modern_signin_form_by_dilshad\Release\Modern_signin_form_by_dilshad.vcxproj.GenerateResource.cache
